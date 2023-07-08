@@ -1,0 +1,17 @@
+figcaption{
+    position: absolute;
+background-color: #b3b1b1ad;
+color: white;
+width: 30%;
+text-align: center;
+border-radius: 5px;
+padding: 10px;
+right: 10px;
+top: 10px;
+}
+.newcard{
+    transition: all 0.2s;
+}
+.newcard:hover{
+transform:scale(1.1);
+}
